@@ -1,1 +1,1 @@
-# SigmaDeptCourseScheduling
+# DeptSchedlingUI
